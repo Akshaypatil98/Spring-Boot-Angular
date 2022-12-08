@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "test",
+      "type": "com.hotelManagement.model.Login",
+      "sourceType": "com.hotelManagement.model.Login"
+    }
+  ],
+  "properties": [
+    {
+      "name": "test.email",
+      "type": "java.lang.String",
+      "sourceType": "com.hotelManagement.model.Login"
+    },
+    {
+      "name": "test.password",
+      "type": "java.lang.String",
+      "sourceType": "com.hotelManagement.model.Login"
+    },
+    {
+      "name": "test.rpassword",
+      "type": "java.lang.String",
+      "sourceType": "com.hotelManagement.model.Login"
+    }
+  ],
+  "hints": []
+}
